@@ -4,6 +4,7 @@ import java.util.*;
 
 /*Write your code here. DO NOT use access modifiers (e.g.: 'public') in your class declarations.*/
 class Comparator{
+    
     boolean compare(int a, int b){
         if((a == b) && (a >=0) && (a <= 10000000) && (b >=0) && (b <= 10000000) ){
             return true;
