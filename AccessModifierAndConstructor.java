@@ -5,6 +5,7 @@ public class AccessModifierAndConstructor {
 //        Employee1 harry = new Employee1();
 //        harry.setName("CodeWithHarry");
 //        System.out.println(harry.getName());
+        
         Circle1 cir = new Circle1();
         cir.setRadius(4);
         System.out.println(cir.getArea());
