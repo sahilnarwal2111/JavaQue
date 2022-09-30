@@ -6,6 +6,7 @@ public class AdvancedPracticeSet {
         ArrayList ar = new ArrayList();
         ar.add("Student 1");
         ar.add("Student 2");
+        
         ar.add("Student 3");
         ar.add("Student 4");
         ar.add("Student 5");
