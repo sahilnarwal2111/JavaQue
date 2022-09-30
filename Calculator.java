@@ -27,7 +27,7 @@ public class Calculator {
                 result = number1 / number2;
                 System.out.println(number1 + " / " + number2 + " = " + result);
             }
-            default -> System.out.println("Invalid operator!");
+            default -> System.out.println("Invalid operator! ");
         }
     }
 
