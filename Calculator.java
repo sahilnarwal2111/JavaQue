@@ -10,6 +10,7 @@ public class Calculator {
         number1 = input.nextDouble();
         System.out.println("Enter second number");
         number2 = input.nextDouble();
+        
         switch (operator) {
             case '+' -> {
                 result = number1 + number2;
