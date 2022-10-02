@@ -1,5 +1,6 @@
 
 
+
 public class ConstructorInheritance {
     public static void main(String[] args) {
 //        Derived dr = new Derived(1,2);
