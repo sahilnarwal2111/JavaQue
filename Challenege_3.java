@@ -1,5 +1,6 @@
 //public class Challenege_3 {
 //}
+
 import java.io.*;
         import java.math.*;
         import java.security.*;
