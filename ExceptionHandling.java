@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class ExceptionHandling {
     public static void main(String[] args) {
         //Writea program to print all prime numbers
@@ -8,7 +7,6 @@ public class ExceptionHandling {
 //        for (int i = 0; i< 10; i++){
 //            System.out.println(2*i+1);
 //        }-->logical error
-
 //        int k ;
         Scanner sc = new Scanner(System.in);
 //        k = sc.nextInt();
@@ -32,7 +30,6 @@ public class ExceptionHandling {
             System.out.println("The value at index is "+marks[ind]);
             System.out.println("The value at index/number is "+marks[ind]/num);
         }
-
         catch (ArrayIndexOutOfBoundsException e){
             System.out.println("ArrayIndexOutOfBoundsException");
             System.out.println(e);
