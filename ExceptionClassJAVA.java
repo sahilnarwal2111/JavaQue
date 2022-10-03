@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class ExceptionClassJAVA {
     public static void main(String[] args) {
         int a;
@@ -28,6 +27,4 @@ class MyExceptionMethod extends Exception{
     public String getMessage(){
         return "Hello I m from getMessage() function ";
     }
-
-
 }
