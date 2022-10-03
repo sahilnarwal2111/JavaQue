@@ -9,8 +9,7 @@ public class Constructor {
         System.out.println(harry.getName());
         System.out.println(harry.getSalary());
 
-        
-
+      
     }
 }
 
