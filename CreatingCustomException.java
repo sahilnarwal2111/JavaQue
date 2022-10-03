@@ -26,8 +26,6 @@ public class CreatingCustomException {
 //        }
 //        System.out.println("rest of the code");
 //    }
-
-
     public static void main(String args[]){
 
         try {
