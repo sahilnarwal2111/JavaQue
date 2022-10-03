@@ -5,10 +5,8 @@ public class DynamicMethodDispatching {
         Phone sa = new smartPhone();
         sa.on();
         sa.greet();
-
     }
 }
-
 class Phone{
     public void greet(){
         System.out.println("You are welcome here !");
