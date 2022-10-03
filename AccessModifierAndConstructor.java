@@ -1,7 +1,4 @@
 
-
-
-
 public class AccessModifierAndConstructor {
     public static void main(String[] args) {
 //        Employee1 harry = new Employee1();
