@@ -36,6 +36,4 @@ public class Calculator {
         Calculator c1 = new Calculator();
         c1.calculator();
     }
-
-
 }
