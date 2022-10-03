@@ -1,11 +1,7 @@
 public class ExerciseOnAccesModifiers {
     public static void main(String[] args) {
-
         sphere sp = new sphere();
         System.out.println(sp.getRad());
-
-
-
     }
 }
 
@@ -53,22 +49,18 @@ class Cylinder{
         vol = (float) (3.14*radius*radius*height);
         System.out.println("Volume is "+vol);
     }
-
 }
 
 class rectangle{
     int length;
     int breadth;
-
     public rectangle() {
         this.length = 4;
         this.breadth = 5;
     }
-
     public int getLength() {
         return length;
     }
-
     public int getBreadth() {
         return breadth;
     }
@@ -76,11 +68,9 @@ class rectangle{
 
 class sphere{
     int rad = 5;
-
     public int getRad() {
         return rad;
     }
-
     public void setRad(int rad) {
         this.rad = rad;
     }
