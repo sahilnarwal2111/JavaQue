@@ -1,4 +1,5 @@
 class B{
+    
     this04 t4 ;
     B(this04 t4){
         this.t4 = t4;
