@@ -1,6 +1,7 @@
 public class tryFinally1 {
     public static void main(String[] args) {
         try{
+            
             int t = 9/0;
         }
         catch (NullPointerException e){
