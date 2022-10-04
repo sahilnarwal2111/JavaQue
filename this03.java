@@ -1,4 +1,5 @@
 public class this03 {
+    
     void m(this03 obj){
         System.out.println("Method is invoked!!");
     }
