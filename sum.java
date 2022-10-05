@@ -1,10 +1,7 @@
 import java.io.*;
 import java.util.*;
-
 public class sum {
-
     public static void main(String[] args) {
-        
         int i = 12;
         double d = 4.0;
         String s = " is the best place to learn and practice coding!";
