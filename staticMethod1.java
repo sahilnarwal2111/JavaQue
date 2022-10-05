@@ -8,6 +8,5 @@ public class staticMethod1 {
            staticMethod1 sm1 = new staticMethod1();
            staticMethod1 sm2 = new staticMethod1();
            staticMethod1 sm3 = new staticMethod1();
-
     }
 }
