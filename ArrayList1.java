@@ -13,3 +13,4 @@ public class ArrayList1 {
         System.out.println(list);
     }
 }
+
