@@ -19,3 +19,4 @@ public class Exp2que1 {
         obj.compare();
     }
 }
+
